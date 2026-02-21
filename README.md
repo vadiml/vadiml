@@ -10,13 +10,15 @@ Most recently: 7 years as the primary engineer at a B2B conversation intelligenc
 
 ## Tech I work with
 
-**Languages:** Go, TypeScript, Python, JavaScript
-**Frontend:** React, React Query, Material UI, Next.js
-**Backend:** NestJS, Express, gRPC, REST
-**AI/ML:** LLM integration (OpenAI, Gemini, Groq, LLaMA), AI agents, self-hosted GPU inference
-**Infrastructure:** AWS (EKS, MSK, Aurora), Kubernetes, Docker, Terraform
-**Data:** PostgreSQL, ClickHouse, Redis, Kafka, Temporal
-**Observability:** Prometheus, Grafana
+| | |
+|---|---|
+| **Languages** | Go, TypeScript, Python, JavaScript |
+| **Frontend** | React, React Query, Material UI, Next.js |
+| **Backend** | NestJS, Express, gRPC, REST |
+| **AI/ML** | LLM integration (OpenAI, Gemini, Groq, LLaMA), AI agents, self-hosted GPU inference |
+| **Infrastructure** | AWS (EKS, MSK, Aurora), Kubernetes, Docker, Terraform |
+| **Data** | PostgreSQL, ClickHouse, Redis, Kafka, Temporal |
+| **Observability** | Prometheus, Grafana |
 
 ## A few things I've built
 
