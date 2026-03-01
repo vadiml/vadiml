@@ -1,5 +1,3 @@
-# Hi, I'm Vadim
-
 Senior Software Engineer with 20 years of experience building full-stack web applications, scalable infrastructure, and AI/ML systems.
 
 ## What I do
